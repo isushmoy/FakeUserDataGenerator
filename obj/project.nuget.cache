@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBj4beUtkP4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hirak\\source\\repos\\FakeUserDataGenerator\\FakeUserDataGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hirak\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
